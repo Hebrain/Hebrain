@@ -91,6 +91,14 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 />
 <img 
   align="left" 
+  alt="AzureDevOps"
+  title="AzureDevOps"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
+/>
+<img 
+  align="left" 
   alt="Elasticsearch"
   title="Elasticsearch" 
   width="30px" 
@@ -115,6 +123,14 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 />
 <img 
   align="left" 
+  alt="Swagger"
+  title="Swagger"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+/>
+<img 
+  align="left" 
   alt="TypeScript"
   title="TypeScript" 
   width="30px" 
@@ -123,13 +139,21 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 />
 <img 
   align="left" 
-  alt="Swagger"
-  title="Swagger"
+  alt="VueJs"
+  title="VueJs"
   width="30px" 
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
 />
-          
+<img 
+  align="left" 
+  alt="JavaScript"
+  title="JavaScript"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
 <br/>
 <br/>
 
