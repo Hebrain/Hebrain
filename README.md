@@ -107,19 +107,27 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 />
 <img 
   align="left" 
-  alt="Git"
-  title="Git" 
-  width="30px" 
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-  align="left" 
   alt="Grafana"
   title="Grafana" 
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+/>
+<img 
+  align="left" 
+  alt="OpenTelemetry"
+  title="OpenTelemetry" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg"
+/>
+<img 
+  align="left" 
+  alt="Git"
+  title="Git" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img 
   align="left" 
