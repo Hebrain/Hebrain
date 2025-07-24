@@ -165,6 +165,8 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
