@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Profissional com sólida experiência no desenvolvimento de aplicações back-end em C#/.NET com domínio de arquiteturas modernas (Microservices, Clean Architecture, Vertical Slice) e foco em performance, escalabilidade e qualidade de código. Forte atuação em APIs REST, mensageria (RabbitMQ, Kafka), bancos SQL/NoSQL e infraestrutura em cloud Azure. Habilidade em automação de pipelines CI/CD, testes, monitoramento e práticas ágeis (Scrum/Kanban).
+Profissional com sólida experiência no desenvolvimento de aplicações back-end em C#/.NET com vivência em arquiteturas modernas (Microservices, Clean Architecture, Vertical Slice) e foco em performance, escalabilidade e qualidade de código. Forte atuação em APIs REST, mensageria (RabbitMQ, Kafka), bancos SQL/NoSQL e infraestrutura em cloud Azure. Contato com automação de pipelines CI/CD, testes, monitoramento e práticas ágeis (Scrum/Kanban).
 
 <p align="left">
     <a href="https://github.com/Hebrain?tab=repositories&sort=stargazers">
