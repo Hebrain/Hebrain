@@ -97,10 +97,6 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg"
 />
-
-</br>
-</br>
-
 <img 
   align="left" 
   alt="Elasticsearch"
