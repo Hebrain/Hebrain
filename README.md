@@ -59,6 +59,14 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
 />
 <img 
   align="left" 
+  alt="Redis"
+  title="Redis" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+/>
+<img 
+  align="left" 
   alt="Rabbit"
   title="Rabbit" 
   width="30px" 
@@ -104,6 +112,22 @@ Profissional com sólida experiência no desenvolvimento de aplicações back-en
   width="30px" 
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg"
+/>
+<img 
+  align="left" 
+  alt="TypeScript"
+  title="TypeScript" 
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+  align="left" 
+  alt="Swagger"
+  title="Swagger"
+  width="30px" 
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
 />
           
 <br/>
